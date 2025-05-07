@@ -37,4 +37,6 @@ EDA involved the exploring of the Data to answer some questions about the Data, 
 - how does outlet size affect total sales
 - what is the effect of outlet location on sales
 
-- 
+## Data Visualization
+
+
